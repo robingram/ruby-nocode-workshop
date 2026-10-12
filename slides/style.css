@@ -1,0 +1,9 @@
+.slide-body li {
+    text-align: left;
+}
+.slide-body td {
+    padding-top: 8px;
+}
+.slide-body table {
+    margin-bottom: 20px;
+}
