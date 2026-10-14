@@ -9,7 +9,7 @@ Build an app with one of these nocode tools:
 
 ## Sample app
 
-Build your own app idea or uase this sample:
+Build your own app idea or use this sample:
 
 ### Music player
 
