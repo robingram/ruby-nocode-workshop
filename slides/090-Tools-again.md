@@ -11,4 +11,4 @@ template: title
 
 # Repo with sample app
 
-[Github](https://github.com/robingram/ruby-nocode-workshop)
+https://github.com/robingram/ruby-nocode-workshop
