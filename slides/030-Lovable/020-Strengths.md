@@ -12,3 +12,4 @@ template: title
 
 ---
 
+Great for designing and building web sites for non-tehnical people
